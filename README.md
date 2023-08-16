@@ -15,17 +15,13 @@
 
 ![](./static/img/3.png)
 
-### 4. 设置TOKEN
 
-需要到海底掘金的页面查看
 
-![image-20220111131432067](./static/img/4.png)
-
-### 5.允许 Github Actions 工作流。
+### 4.允许 Github Actions 工作流。
 
 ![image-20220111131659411](./static/img/5.png)
 
-### 6.消息通知
+### 5.消息通知
 
 #### server酱
 
