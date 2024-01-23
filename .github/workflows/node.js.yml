@@ -18,7 +18,7 @@ jobs:
         # gitcheckout
       # 使用 node:16
       - name: 使用 Node.js 16
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: 16
       - name: Set up npm registry
