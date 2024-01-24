@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: 16
       - name: Set up npm registry
-        run: npm config set registry https://registry.npmjs.org/
+        run: npm config set https://registry.npmmirror.com
       # npm install
       - name: npm install
         run: |
